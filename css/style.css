@@ -103,6 +103,17 @@ hr{
     justify-content: space-between;
 }
 
+.course-duration {
+    background: #a0a9096e;
+    padding: 1px 6px;
+    border-radius: 6px;
+}
+
+i.far.fa-clock {
+    color: #1b92a1;
+    margin-right: 5px;
+}
+
 .fa-star{
     font-size: 12px;
 }
